@@ -1,5 +1,5 @@
 
-I'm a developer with a vision: to make career-focused education accessible, structured, and free. I'm currently working on a CRUD app that bridges the gap between YouTube and traditional degrees — aiming to offer full career paths through curated video content.
+I'm a developer with a vision: to make career-focused education accessible, structured, and free. I'm currently working on a CRUD app that bridges the gap between YouTube and traditional degrees - aiming to offer full career paths through curated video content.
 
 ## Projects I'm Building
 
