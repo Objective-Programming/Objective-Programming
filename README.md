@@ -4,14 +4,14 @@ I'm a developer with a vision: to make career-focused education accessible, stru
 ## Projects I'm Building
 
 ### CareerTube *(WIP)*
-A platform for structured, career-based education. Think "YouTube meets curriculum" — organize video lessons, track progress, and help users reach industry-level skills.
+A platform for structured, career-based education. Think "YouTube meets curriculum" - organize video lessons, track progress, and help users reach industry-level skills.
 
 - CRUD functionality for courses, lessons, and users
 - Progress tracking
 - Embed videos (YouTube, Vimeo, or self-hosted)
 - Goal: Mimic the structure of a real degree, not random playlists
 
-> “Education shouldn’t be a maze of distractions — it should be a path.”
+> “Education shouldn’t be a maze of distractions it should be a path.”
 
 ---
 
@@ -39,7 +39,7 @@ A platform for structured, career-based education. Think "YouTube meets curricul
 
 ---
 
-*Let’s build tools that change how people grow their careers — one project at a time.*
+*Let’s build tools that change how people grow their careers one project at a time.*
 
 
 
